@@ -1,2 +1,2 @@
-# html-css_templete_one
+# Leon app
 my first project as a html&amp;css design 
